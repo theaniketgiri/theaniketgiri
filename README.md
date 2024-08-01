@@ -1,31 +1,29 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi there, I'm Aniket Giri
-</h1>
+<h1 align="center">Hi 👋, I'm Aniket Giri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Code+Architect+%26+Problem+Solver;Open+Source+Enthusiast;Continuous+Learner+%26+Innovator" alt="Typing SVG" />
+  <em>Full-Stack Developer | Open Source Enthusiast | Continuous Learner</em>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/theaniketgiri" target="_blank"><img src="https://img.shields.io/twitter/follow/theaniketgiri?style=social" alt="Twitter Follow" /></a>
   <a href="https://github.com/theaniketgiri" target="_blank"><img src="https://img.shields.io/github/followers/theaniketgiri?label=follow&style=social" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=theaniketgiri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+---
 
-<p align="center">
-  🌟 Crafting elegant solutions to complex problems<br>
-  🔭 Currently architecting scalable microservices<br>
-  🌱 Diving deep into AI-driven development practices<br>
-  💡 Always eager to collaborate on cutting-edge projects
-</p>
+### 👨‍💻 About Me
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+- 🔭 I'm currently working on improving developer productivity
+- 🌱 I'm always learning and exploring new technologies
+- 💬 Ask me about full-stack development and best practices
+- 📫 How to reach me: [theaniketgiri@gmail.com](mailto:theaniketgiri@gmail.com)
+- 🌐 Check out my blog: [www.theaniketgiri.rocks](https://www.theaniketgiri.rocks)
 
-<details open>
-<summary>Click to toggle</summary>
-<br>
+---
+
+### 🛠️ Tech Arsenal
+
+
 
 <p align="center">
   <b>Languages:</b><br>
@@ -47,15 +45,12 @@
   <b>Backend:</b><br>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 <p align="center">
   <b>Databases:</b><br>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 <p align="center">
@@ -74,41 +69,28 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-</details>
 
-<h2 align="center">🌐 Connect with me</h2>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/theaniketgiri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/theaniketgiri" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:theaniketgiri@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://theaniketgiri.com" target="_blank"><img src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Check out my latest posts](https://www.theaniketgiri.rocks/blog)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theaniketgiri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theaniketgiri&theme=radical" alt="GitHub Streak" />
 </p>
 
-<details>
-  <summary align="center">📈 Contribution Graph</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=theaniketgiri&theme=react-dark" alt="Contribution Graph" />
-</details>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theaniketgiri&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<hr>
-
-<p align="center">
-  <i>✍️ Random Dev Quote</i>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <a href="https://linkedin.com/in/theaniketgiri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/theaniketgiri" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.theaniketgiri.rocks" target="_blank"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
