@@ -68,9 +68,6 @@ I'm constantly updating my skills and exploring new technologies. Currently divi
 - GraphQL and Apollo
 - Machine Learning with TensorFlow
 
-### 📈 GitHub Stats
-
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaniketgiri&show_icons=true&theme=radical)
 
 ### 📚 Latest Blog Posts
 
