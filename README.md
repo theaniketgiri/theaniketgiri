@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Aniket%20Giri&fontSize=90&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=300&section=header&text=Aniket%20Giri&fontSize=90&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Coder%20|%20Problem%20Solver&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
@@ -17,7 +17,36 @@ I craft digital experiences that blend creativity with functionality. My code is
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Building+the+web+of+tomorrow%2C+today;Turning+coffee+into+code+since+2015;Crafting+digital+experiences+with+passion;Where+creativity+meets+functionality" width="70%" />
 </div>
 
-## 🚀 My Superpower Stack
+## 🚀 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React Apps
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>Open Source
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Technical Expertise
 
 <table align="center">
   <tr>
@@ -118,6 +147,15 @@ I craft digital experiences that blend creativity with functionality. My code is
   </tr>
 </table>
 
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</div>
+
 ## 🌟 What I Do
 
 <div align="center">
@@ -145,15 +183,6 @@ I craft digital experiences that blend creativity with functionality. My code is
   </table>
 </div>
 
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</div>
-
 ## 💭 My Philosophy
 
 ```javascript
@@ -175,9 +204,9 @@ function developmentPhilosophy() {
 
 <div align="center">
   <p>I'm always open to interesting conversations, collaboration opportunities, or just geeking out about the latest tech.</p>
-  <p>Drop me a line at <a href="mailto:hello@theaniketgiri.rocks">hello@theaniketgiri.rocks</a> or connect with me on social media!</p>
+  <p>Drop me a line at <a href="mailto:theaniketgiri@gmail.com">theaniketgiri@gmail.com</a> or connect with me on social media!</p>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
